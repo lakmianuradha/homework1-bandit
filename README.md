@@ -73,6 +73,7 @@ level 16
 Comments
 
 When login to a new level to change the level number had to move through whole ssh command and later found that by defining a variable in the shell the issue can be solved.
+
 Since the '-' is a special character it cannot be just typed same as other file names.
 
 
