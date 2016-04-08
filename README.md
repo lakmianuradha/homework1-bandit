@@ -70,6 +70,10 @@ level 16
 
 ![level16](https://cloud.githubusercontent.com/assets/18346674/14382763/d32f2fae-fdad-11e5-9420-144640e99340.PNG)
 
+Comments
+
+When login to a new level to change the level number had to move through whole ssh command and later found that by defining a variable in the shell the issue can be solved.
+Since the '-' is a special character it cannot be just typed same as other file names.
 
 
 
